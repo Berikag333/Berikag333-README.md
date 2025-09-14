@@ -8,12 +8,6 @@
 MBA in Digital Marketing | Data Analytics | PR & Communications  
 
 ...
-
-
-
-# ErikaGonzalez-README.md
-Bilingual Digital Marketing &amp; Data Analytics Specialist (MBA) with 7+ years of experience in leadership, communications, and customer success.   I combine creative marketing strategies with data-driven insights to deliver measurable business impact.  
-
 # 👋 Hi, I'm Erika 
 
 **Bilingual Digital Marketing & Data Analytics Specialist (MBA)** with 7+ years of experience in **leadership, communications, and customer success**.  
@@ -21,11 +15,33 @@ I combine **creative marketing strategies** with **data-driven insights** to del
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, Plotly, Streamlit), SQL (PostgreSQL)  
-- **Business Intelligence:** Tableau, Excel, Data Storytelling, KPI Dashboards  
-- **Marketing & Communications:** Digital Marketing, SEO, PR, Branding, CRM, Campaign Optimization  
-- **Languages:** Spanish (Native), English (Fluent)  
+## 🛠️ Skills & Tools  
+
+### 🔹 Programming & Analytics  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+
+### 🔹 Business Intelligence  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+📊 Data Storytelling • 📈 KPI Dashboards  
+
+### 🔹 Marketing & Communications  
+![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-FF6F00?style=flat&logo=google-ads&logoColor=white)  
+![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=google&logoColor=white)  
+![PR & Branding](https://img.shields.io/badge/-PR%20%26%20Branding-8A2BE2?style=flat)  
+![CRM](https://img.shields.io/badge/-CRM-FF4500?style=flat&logo=salesforce&logoColor=white)  
+![Campaign Optimization](https://img.shields.io/badge/-Campaign%20Optimization-00A86B?style=flat)  
+
+### 🔹 Languages  
+![Spanish](https://img.shields.io/badge/-Spanish-FF0000?style=flat&logo=google-translate&logoColor=white)  
+![English](https://img.shields.io/badge/-English-00247D?style=flat&logo=google-translate&logoColor=white)  
+
 
 ---
 
