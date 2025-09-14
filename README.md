@@ -1,6 +1,7 @@
 ![Banner](banner2.png)
 
-[![Banner](https://github.com/Berikag333/Berikag333/blob/main/banner.png)](https://www.linkedin.com/in/erikabgonzalezmu%C3%B1oz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erika%20Gonzalez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erikabgonzalezmu%C3%B1oz)
+
 
 # 💻 About Me  
 👩‍💼 Erika B. Gonzalez Muñoz  
