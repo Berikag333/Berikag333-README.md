@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner2.png)
 
 # 💻 About Me  
 👩‍💼 Erika B. Gonzalez Muñoz  
