@@ -8,10 +8,10 @@ MBA in Digital Marketing | Data Analytics | PR & Communications
 
 
 
-# Berikag333-README.md
+# ErikaGonzalez-README.md
 Bilingual Digital Marketing &amp; Data Analytics Specialist (MBA) with 7+ years of experience in leadership, communications, and customer success.   I combine creative marketing strategies with data-driven insights to deliver measurable business impact.  
 
-# 👋 Hi, I'm Erika (Berikag333)
+# 👋 Hi, I'm Erika 
 
 **Bilingual Digital Marketing & Data Analytics Specialist (MBA)** with 7+ years of experience in **leadership, communications, and customer success**.  
 I combine **creative marketing strategies** with **data-driven insights** to deliver measurable business impact.  
